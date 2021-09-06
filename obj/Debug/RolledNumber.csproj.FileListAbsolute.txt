@@ -1,0 +1,6 @@
+E:\root\RolledNumber\RolledNumber\bin\Debug\RolledNumber.exe.config
+E:\root\RolledNumber\RolledNumber\bin\Debug\RolledNumber.exe
+E:\root\RolledNumber\RolledNumber\bin\Debug\RolledNumber.pdb
+E:\root\RolledNumber\RolledNumber\obj\Debug\RolledNumber.csprojResolveAssemblyReference.cache
+E:\root\RolledNumber\RolledNumber\obj\Debug\RolledNumber.exe
+E:\root\RolledNumber\RolledNumber\obj\Debug\RolledNumber.pdb
